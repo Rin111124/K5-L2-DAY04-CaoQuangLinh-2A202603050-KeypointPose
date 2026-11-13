@@ -1,0 +1,65 @@
+{
+ "mssv": "202603050",
+ "ten": "CaoQuangLinh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "linhcao",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000211458.jpg",
+  "000000213933.jpg",
+  "000000241837.jpg",
+  "000000349521.jpg",
+  "000000455536.jpg",
+  "000000091637.jpg",
+  "000000193879.jpg",
+  "000000521817.jpg",
+  "000000431988.jpg",
+  "000000515309.jpg",
+  "000000438099.jpg",
+  "000000309169.jpg"
+ ],
+ "faces": [
+  "face_232598.jpg",
+  "face_421231.jpg",
+  "face_92028.jpg",
+  "face_105668.jpg",
+  "face_53580.jpg",
+  "face_514826.jpg",
+  "face_301643.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-CaoQuangLinh"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-CaoQuangLinh"
+  },
+  "persons-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-extra-CaoQuangLinh"
+  },
+  "faces-extra": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-extra-CaoQuangLinh"
+  }
+ },
+ "persons_extra": [
+  "000000196853.jpg",
+  "000000357549.jpg",
+  "000000507223.jpg"
+ ],
+ "faces_extra": [
+  "face_274219.jpg",
+  "face_280788.jpg",
+  "face_296417.jpg",
+  "face_317330.jpg",
+  "face_507166.jpg"
+ ]
+}
